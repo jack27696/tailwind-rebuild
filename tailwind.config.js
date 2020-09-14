@@ -215,6 +215,7 @@ module.exports = {
     },
     container: {
       center: true,
+      padding: '0rem',
     },
     cursor: {
       auto: 'auto',
