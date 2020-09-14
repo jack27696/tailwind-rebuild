@@ -20,7 +20,7 @@
 
     </header>
 
-    <main class="my-6 flex flex-wrap justify-center max-w-xl md:max-w-3xl lg:max-w-none">
+    <main class="my-6 flex flex-wrap self-center justify-center max-w-xl md:max-w-3xl lg:max-w-none">
 
 
       <WebsiteCard 
@@ -57,7 +57,7 @@
 
     <div class="flex-grow spacer"></div>
 
-    <footer class="flex flex-col m-8 text-gray-700 font-roboto w-full items-center">
+    <footer class="flex flex-col my-10 text-gray-700 font-roboto w-full items-center">
       <div>Made by Jack Edwards</div>
       <div>Heavily Inspired by Andre Madarang · <a class="underline hover:text-gray-800" href="https://twitter.com/drehimself?lang=en">@drehimself</a>  - Please check out his work! <a href="https://github.com/drehimself" class="inline-block"><GithubLogoNoBG /></a> </div>
     </footer>
